@@ -5,14 +5,7 @@
     <title>Actividad02</title>
   </head>
   <body>
-    <h1>Formulario actividad 2</h1>
-    <?php
-
-    $color1=$_POST["red"];
-    $color1=$_POST["blue"];
-    $color1=$_POST["green"];
-
-     ?>
+    <h1>Nuevo</h1
 
      <br>
      <form action="accion.php" method="post">
